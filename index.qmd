@@ -1,5 +1,5 @@
 ---
-title: "IAB프로그램 (2025)"
+title: "IAB프로그래밍 (2025)"
 listing:
   contents: content
   sort: "date desc"
@@ -13,7 +13,7 @@ title-block-banner: false
 
 **실습** 
 
-- <https://guebin.github.io/IAB2025-Play>
+- <https://guebin.github.io/IAB-PR2025-Play>
 
 **질문하는 방법**
 
